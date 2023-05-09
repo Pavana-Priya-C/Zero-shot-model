@@ -1,2 +1,2 @@
 # Zero-shot-model
-A zero-shot model is a type of machine learning model that can perform a task without any specific training on that task. 
+A zero-shot model is a type of machine learning model that can perform a task without any specific training on that task.This means that it can be used for new tasks that it has not been specifically trained on. Zero-shot models are trained using transfer learning techniques. First, they are pre-trained on a large amount of data, which helps them learn general features of the language. Then they can be fine-tuned for a specific task. This makes them more efficient and effective, because they don't require as much training data as other models.
